@@ -11,7 +11,11 @@ jobs:
     name: Update Profile ReadMe
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
       
       - uses: Readme-Workflows/recent-activity@v2.4.1 # Ejemplo de acción del Marketplace
         env:
