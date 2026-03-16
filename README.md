@@ -49,8 +49,8 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaipCas&layout=compact&theme=tokyonight" />
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </p>
 
