@@ -41,6 +41,11 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 
 ---
 
+# 🕒 Actividad reciente
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 # 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -48,9 +53,6 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 <img src="https://github-readme-stats.vercel.app/api?username=PaipCas&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaipCas&layout=compact&theme=tokyonight" />
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </p>
 
