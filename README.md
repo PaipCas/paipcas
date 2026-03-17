@@ -44,11 +44,11 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 # 🕒 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/PaipCas/miCuartoRepo/issues/1) in [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
-2. ❗️ Opened issue [#1](https://github.com/PaipCas/miCuartoRepo/issues/1) in [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [PaipCas/paipcas](https://github.com/PaipCas/paipcas)<br>
-4. ⬆️ Pushed undefined commit(s) to [PaipCas/paipcas](https://github.com/PaipCas/paipcas)<br>
-5. ⬆️ Pushed undefined commit(s) to [PaipCas/paipcas](https://github.com/PaipCas/paipcas)<br>
+1. ⬆️ Pushed undefined commit(s) to [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
+2. 💪 Opened PR [#2](undefined) in [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
+4. ✔️ Closed issue [#1](https://github.com/PaipCas/miCuartoRepo/issues/1) in [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
+5. ❗️ Opened issue [#1](https://github.com/PaipCas/miCuartoRepo/issues/1) in [PaipCas/miCuartoRepo](https://github.com/PaipCas/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
