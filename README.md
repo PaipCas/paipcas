@@ -44,11 +44,11 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 # 🕒 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [PaipCas/miPrimerRepo](https://github.com/PaipCas/miPrimerRepo)<br>
-2. 💪 Opened PR [#8](undefined) in [PaipCas/miPrimerRepo](https://github.com/PaipCas/miPrimerRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [PaipCas/miPrimerRepo](https://github.com/PaipCas/miPrimerRepo)<br>
-4. ❗️ Opened issue [#7](https://github.com/PaipCas/miPrimerRepo/issues/7) in [PaipCas/miPrimerRepo](https://github.com/PaipCas/miPrimerRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [PaipCas/miPrimerRepo](https://github.com/PaipCas/miPrimerRepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [PaipCas/cursoAsincronismo](https://github.com/PaipCas/cursoAsincronismo)<br>
+2. 💪 Opened PR [#8](undefined) in [PaipCas/cursoAsincronismo](https://github.com/PaipCas/cursoAsincronismo)<br>
+3. ⬆️ Pushed undefined commit(s) to [PaipCas/cursoAsincronismo](https://github.com/PaipCas/cursoAsincronismo)<br>
+4. 💪 Opened PR [#7](undefined) in [PaipCas/cursoAsincronismo](https://github.com/PaipCas/cursoAsincronismo)<br>
+5. ⬆️ Pushed undefined commit(s) to [PaipCas/cursoAsincronismo](https://github.com/PaipCas/cursoAsincronismo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
