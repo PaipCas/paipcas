@@ -45,10 +45,10 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
-2. ⬆️ Pushed undefined commit(s) to [PaipCas/myWebsite](https://github.com/PaipCas/myWebsite)<br>
-3. 💪 Opened PR [#1](undefined) in [PaipCas/myWebsite](https://github.com/PaipCas/myWebsite)<br>
-4. 🤝 Became collaborator on [ProSachi/zoologico-polimorfico](https://github.com/ProSachi/zoologico-polimorfico)<br>
-5. ⬆️ Pushed undefined commit(s) to [PaipCas/asyncLanding](https://github.com/PaipCas/asyncLanding)<br>
+2. 💪 Opened PR [#2](undefined) in [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
+3. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
+4. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
+5. 💪 Opened PR [#1](undefined) in [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
