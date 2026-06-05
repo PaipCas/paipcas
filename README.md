@@ -44,10 +44,10 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 # 🕒 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
+1. ❗️ Opened issue [#1](https://github.com/MarkoEv/Retos-JavaScript/issues/1) in [MarkoEv/Retos-JavaScript](https://github.com/MarkoEv/Retos-JavaScript)<br>
 2. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
-3. 💪 Opened PR [#16](undefined) in [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
-4. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
+3. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
+4. 💪 Opened PR [#16](undefined) in [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
 5. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
 <!--RECENT_ACTIVITY:end-->
 
