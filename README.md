@@ -46,7 +46,6 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [PaipCas/laboratorio-mydayapp-js](https://github.com/PaipCas/laboratorio-mydayapp-js) from [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js)<br>
 2. ❗️ Opened issue [#1](https://github.com/MarkoEv/Retos-JavaScript/issues/1) in [MarkoEv/Retos-JavaScript](https://github.com/MarkoEv/Retos-JavaScript)<br>
-3. ⬆️ Pushed undefined commit(s) to [PaipCas/unisysnovaII](https://github.com/PaipCas/unisysnovaII)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
