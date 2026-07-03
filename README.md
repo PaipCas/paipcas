@@ -45,9 +45,10 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
-2. 💪 Opened PR [#1](undefined) in [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
-3. 🔱 Forked [PaipCas/laboratorio-mydayapp-js](https://github.com/PaipCas/laboratorio-mydayapp-js) from [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js)<br>
-4. ❗️ Opened issue [#1](https://github.com/MarkoEv/Retos-JavaScript/issues/1) in [MarkoEv/Retos-JavaScript](https://github.com/MarkoEv/Retos-JavaScript)<br>
+2. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
+3. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
+4. 💪 Opened PR [#1](undefined) in [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
+5. 🔱 Forked [PaipCas/laboratorio-mydayapp-js](https://github.com/PaipCas/laboratorio-mydayapp-js) from [platzi/laboratorio-mydayapp-js](https://github.com/platzi/laboratorio-mydayapp-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
