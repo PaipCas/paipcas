@@ -44,11 +44,11 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 # 🕒 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
+1. ⬆️ Pushed undefined commit(s) to [PaipCas/aprendiendo-react](https://github.com/PaipCas/aprendiendo-react)<br>
 2. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
 3. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
 4. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
-5. 💪 Opened PR [#1](undefined) in [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
+5. ⬆️ Pushed undefined commit(s) to [PaipCas/ecommerce-react-course-website](https://github.com/PaipCas/ecommerce-react-course-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
