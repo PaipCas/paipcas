@@ -46,9 +46,9 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
 2. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
-3. 💪 Opened PR [#4](undefined) in [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
-4. 💪 Opened PR [#2](undefined) in [profejuanjosegallego/Parcial1MartesNT20262](https://github.com/profejuanjosegallego/Parcial1MartesNT20262)<br>
-5. 🔱 Forked [PaipCas/Parcial1MartesNT20262](https://github.com/PaipCas/Parcial1MartesNT20262) from [profejuanjosegallego/Parcial1MartesNT20262](https://github.com/profejuanjosegallego/Parcial1MartesNT20262)<br>
+3. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
+4. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
+5. 💪 Opened PR [#4](undefined) in [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
