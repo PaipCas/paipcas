@@ -48,7 +48,7 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 2. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
 3. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
 4. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
-5. 💪 Opened PR [#4](undefined) in [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
+5. ⬆️ Pushed undefined commit(s) to [PaipCas/apiRest](https://github.com/PaipCas/apiRest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
