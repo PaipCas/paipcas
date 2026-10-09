@@ -47,7 +47,6 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 1. 💪 Opened PR [#6](undefined) in [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
 2. 💪 Opened PR [#5](undefined) in [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
 3. 🤝 Became collaborator on [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
-4. 🔱 Forked [PaipCas/integrador_nt_martes20262](https://github.com/PaipCas/integrador_nt_martes20262) from [profejuanjosegallego/integrador_nt_martes20262](https://github.com/profejuanjosegallego/integrador_nt_martes20262)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
