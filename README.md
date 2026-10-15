@@ -44,11 +44,11 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 # 🕒 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](undefined) in [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
-2. 💪 Opened PR [#4](undefined) in [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
+1. ⬆️ Pushed undefined commit(s) to [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
+2. ⬆️ Pushed undefined commit(s) to [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
 3. ⬆️ Pushed undefined commit(s) to [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
-4. 💪 Opened PR [#3](undefined) in [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
-5. 💪 Opened PR [#1](undefined) in [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
+4. ⬆️ Pushed undefined commit(s) to [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
+5. ⬆️ Pushed undefined commit(s) to [PaipCas/retos-biz-backend](https://github.com/PaipCas/retos-biz-backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
