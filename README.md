@@ -45,8 +45,8 @@ Actualmente estoy fortaleciendo mis habilidades en el **ecosistema JavaScript mo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
-2. 💪 Opened PR [#10](undefined) in [PaipCas/retos-biz-backend](https://github.com/PaipCas/retos-biz-backend)<br>
-3. 💪 Opened PR [#10](undefined) in [PaipCas/retos-biz](https://github.com/PaipCas/retos-biz)<br>
+2. ⬆️ Pushed undefined commit(s) to [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
+3. ⬆️ Pushed undefined commit(s) to [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
 4. ⬆️ Pushed undefined commit(s) to [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
 5. ⬆️ Pushed undefined commit(s) to [jeinerlon-crypto/Integrador_NT_6](https://github.com/jeinerlon-crypto/Integrador_NT_6)<br>
 <!--RECENT_ACTIVITY:end-->
